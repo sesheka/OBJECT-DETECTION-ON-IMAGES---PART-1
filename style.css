@@ -1,0 +1,16 @@
+body{
+    background-image: url("https://img.freepik.com/free-vector/gradient-pastel-sky-background_23-2148908629.jpg?w=2000")
+    
+}
+h1{
+    background-color: black;
+    color: white;
+}
+a
+{
+font-size: 20px !important;
+width: 400px;
+border-radius: 30px !important;
+background-color: black;
+color: pink;
+}
